@@ -57,5 +57,9 @@
 		"azure-cli": "latest",
 		"homebrew": "latest",
 		"jupyterlab": "latest"
-	}
+	},
+	"extensions": [
+		"GitHub.copilot",
+		"GitHub.copilot-labs"
+	  ]
 }
